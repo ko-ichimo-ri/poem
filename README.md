@@ -45,11 +45,11 @@
 |
 |- essay.md: Readme.mdの概要に基づいたテーマで読み物として読めるものにします。
 |
-|- memo: esssay.mdを作成するうえで必要な調査や戦略についてまとめます
+|- memo: essay.mdを作成するうえで必要な調査や戦略についてまとめます
 |   |
-|   |- survey.md: esssay.mdを作成するためのヒントになる文献をまとめます
+|   |- survey.md: essay.mdを作成するためのヒントになる文献をまとめます
 |   |
-|   |_ strategy.md: esssay.mdの骨組みや内容の方針、進め方について記載します
+|   |_ strategy.md: essay.mdの骨組みや内容の方針、進め方について記載します
 |
 |_ paper.tex: 論文形式で書けそうなら書きます。
 </pre>
