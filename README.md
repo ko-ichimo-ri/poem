@@ -1,7 +1,7 @@
 # poem
 自分のアイデアやポエムを公開するためのリポジトリです。オープンソースにしてプルリクエストを受けることにより洗練されると考えました。よろしくお願いします。
 ## ポエムの内容
-- [human_behavior](https://github.com/ko-ichimo-ri/poem/tree/main/human_behavior):人間中心主義的な考え方を用いず、人間の行動を10個に分類する。この分類を用いてそれぞれの行動に関する妥当性・正しさを考察を行う。同時に、従来人間特有の行動と考えられていた人文学・社会科学的な知見を一般化し、生成AIやロボット、人間以外の生物なども含めた抽象的な体系を目指す。
+- [human_behavior](https://github.com/ko-ichimo-ri/poem/tree/main/human_behavior): 人間中心主義的な考え方を用いず、人間の行動を10個に分類する。この分類を用いてそれぞれの行動に関する妥当性・正しさを考察する。同時に、従来人間特有の行動と考えられていた人文学・社会科学的な知見を一般化し、生成AIやロボット、人間以外の生物なども含めた抽象的な体系を目指す。
 - [publication_bias](https://github.com/ko-ichimo-ri/poem/tree/main/publication_bias): 頻度主義的な仮説検定を用いて得られた論文が複数ある際の学会全体の妥当性について形式的に考察する(予定で、途中で断念したらすみません)。出版バイアスの形式化に挑戦し、数学的・理論的に解析できるようにする。
 - [ideas](https://github.com/ko-ichimo-ri/poem/tree/main/ideas): その他雑多なアイデア集です。
 
