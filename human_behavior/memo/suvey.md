@@ -25,6 +25,11 @@ Google Scholarなどを用いて調査した結果を述べる。下記のステ
 - [ゲーム理論 第3版(岡田,2021)](https://www.yuhikaku.co.jp/books/detail/9784641165779)
 - [世界経済の歴史［第2版］グローバル経済史入門](https://www.unp.or.jp/ISBN/ISBN978-4-8158-0997-3.html)
 - [計測工学入門(第3版・補訂版)(中村,2020)](https://www.morikita.co.jp/books/mid/066294)
+- [ソフトウェア工学の基礎　改訂新版(玉井,2022)](https://www.iwanami.co.jp/book/b606533.html)
+- [入門・倫理学(赤林・児玉,2018)](https://www.keisoshobo.co.jp/book/b341346.html)
+- [レトリック事典(佐藤,2006)](https://www.taishukan.co.jp/book/b197691.html)
+- [新版 現代文 読解の基礎講義](https://www.bun-eido.co.jp/store/detail/24510/)
+- [「論理的思考」の文化的基盤 4つの思考表現スタイル](https://www.iwanami.co.jp/book/b631492.html)
 
 # Wikipedia(などネット記事)
 - [学問](https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%95%8F)
