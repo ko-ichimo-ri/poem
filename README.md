@@ -54,3 +54,6 @@
 |_ paper.tex: 論文形式で書けそうなら書きます。
 </pre>
 
+# その他
+- 後日書きたいことは[イシュー](https://github.com/ko-ichimo-ri/poem/issues)や[プルリクエスト](https://github.com/ko-ichimo-ri/poem/pulls)でまとめています。不足していると思われた記述はそちらにあるかも？
+- 具体的な変更があれば[プルリクエスト](https://github.com/ko-ichimo-ri/poem/pulls)で、挨拶や質問などプルリクエストを出すまでもないものは[ディスカッション](https://github.com/ko-ichimo-ri/poem/discussions)で議論しましょう
