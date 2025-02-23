@@ -31,12 +31,14 @@ Google Scholarなどを用いて調査した結果を述べる。下記のステ
 - [新版 現代文 読解の基礎講義](https://www.bun-eido.co.jp/store/detail/24510/)
 - [「論理的思考」の文化的基盤 4つの思考表現スタイル](https://www.iwanami.co.jp/book/b631492.html)
 - [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://www.shuwasystem.co.jp/book/9784798046143.html)
+- [誤謬論入門　優れた議論の実践ガイド](https://www.amazon.co.jp/%E8%AA%A4%E8%AC%AC%E8%AB%96%E5%85%A5%E9%96%80-%E5%84%AA%E3%82%8C%E3%81%9F%E8%AD%B0%E8%AB%96%E3%81%AE%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-T%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%83%87%E3%82%A4%E3%83%9E%E3%83%BC/dp/4909240047)
 
 まだ全く読んでいないが関係ありそうな書籍
 - [知の技法](https://www.utp.or.jp/book/b298418.html): 研究とはどういう営みかはここから引用できそう(一旦は大学院時代の経験で書く。修士しか出ていませんが・・・。)
 - [あなたと動物と機械と 新たな共同体のために](https://www.nakanishiya.co.jp/book/b616789.html): 人間以外の動物や機械を含めた哲学。友情とか感情とかに注目しているので「変更可能性」「個数」に注目した自分の考えとはあまり関係なさそう。でも人間以外のものも人間と同等に考える意味では似ているかも。
 - [方法序説](https://www.iwanami.co.jp/book/b246680.html): 学問の枠組みといえばこれみたいなところある
 - [事実/価値二分法の崩壊　〈新装版〉](https://www.h-up.com/books/isbn978-4-588-09942-7.html): 事実認識と価値判断の関係を考える上では必読かも
+- [数理議論学](https://www.tdupress.jp/book/b350069.html): 論理と説明的修辞の話の時必要かも
 
 # Wikipedia(などネット記事)
 - [学問](https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%95%8F)
