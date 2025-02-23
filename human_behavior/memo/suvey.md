@@ -20,7 +20,7 @@ Google Scholarなどを用いて調査した結果を述べる。下記のステ
 - [知の技法](https://www.utp.or.jp/book/b298418.html)
 - [化学の歴史(アイザック・アシモフ)](https://www.chikumashobo.co.jp/product/9784480092823/)
 - [制度とは何か　社会科学のための制度論](https://www.amazon.co.jp/%E5%88%B6%E5%BA%A6%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%94%80%E2%94%80%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%88%B6%E5%BA%A6%E8%AB%96-%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E3%83%BB%E3%82%B0%E3%82%A1%E3%83%A9/dp/4766425650)
-- [単位の成り立ち](https://www.kouseisha.com/book/b211914.html
+- [単位の成り立ち](https://www.kouseisha.com/book/b211914.html)
 - [リーディングス　数学の哲学　ゲーデル以後](https://www.keisoshobo.co.jp/book/b26610.html)
 - [ゲーム理論 第3版(岡田,2021)](https://www.yuhikaku.co.jp/books/detail/9784641165779)
 - [世界経済の歴史［第2版］グローバル経済史入門](https://www.unp.or.jp/ISBN/ISBN978-4-8158-0997-3.html)
@@ -30,6 +30,7 @@ Google Scholarなどを用いて調査した結果を述べる。下記のステ
 - [レトリック事典(佐藤,2006)](https://www.taishukan.co.jp/book/b197691.html)
 - [新版 現代文 読解の基礎講義](https://www.bun-eido.co.jp/store/detail/24510/)
 - [「論理的思考」の文化的基盤 4つの思考表現スタイル](https://www.iwanami.co.jp/book/b631492.html)
+- [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://www.shuwasystem.co.jp/book/9784798046143.html)
 
 # Wikipedia(などネット記事)
 - [学問](https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%95%8F)
