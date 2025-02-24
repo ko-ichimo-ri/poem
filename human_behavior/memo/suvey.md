@@ -32,6 +32,7 @@ Google Scholarなどを用いて調査した結果を述べる。下記のステ
 - [「論理的思考」の文化的基盤 4つの思考表現スタイル](https://www.iwanami.co.jp/book/b631492.html)
 - [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://www.shuwasystem.co.jp/book/9784798046143.html)
 - [誤謬論入門　優れた議論の実践ガイド](https://www.amazon.co.jp/%E8%AA%A4%E8%AC%AC%E8%AB%96%E5%85%A5%E9%96%80-%E5%84%AA%E3%82%8C%E3%81%9F%E8%AD%B0%E8%AB%96%E3%81%AE%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-T%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%83%87%E3%82%A4%E3%83%9E%E3%83%BC/dp/4909240047)
+- [荘子　（一）内篇（全四冊）(金谷,1971)](https://www.iwanami.co.jp/book/b270781.html)
 
 まだ全く読んでいないが関係ありそうな書籍
 - [知の技法](https://www.utp.or.jp/book/b298418.html): 研究とはどういう営みかはここから引用できそう(一旦は大学院時代の経験で書く。修士しか出ていませんが・・・。)
@@ -46,7 +47,17 @@ Google Scholarなどを用いて調査した結果を述べる。下記のステ
 
 # 生成AIの知見
 ## 各10分類の本来の意味
-分量が多いので別ファイルで議論(準備中)
+分量が多いので別ファイルで議論。生成AI以外の知見も含む。
+- [芸術の定義・意味](./current_meaning_of_behavior/art.md)
+- [技術の定義・意味](./current_meaning_of_behavior/technology.md)
+- [科学の定義・意味](./current_meaning_of_behavior/science.md)
+- [経済の定義・意味](./current_meaning_of_behavior/economy.md)
+- [法の定義・意味](./current_meaning_of_behavior/legal.md)
+- [思想の定義・意味](./current_meaning_of_behavior/thought.md)
+- [文化の定義・意味](./current_meaning_of_behavior/culture.md)
+- [学問の定義・意味](./current_meaning_of_behavior/academics.md)
+- [政治の定義・意味](./current_meaning_of_behavior/politics.md)
+- [数学の定義・意味](./current_meaning_of_behavior/math.md)
 
 ## 人間を排した規範と法則の違いについて
 
