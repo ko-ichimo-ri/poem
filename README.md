@@ -50,7 +50,7 @@
 |   |
 |   |- survey.md: essay.mdを作成するためのヒントになる文献をまとめます
 |   |
-|   |_ strategy.md: essay.mdの骨組みや内容の方針、進め方について記載します
+|   |_ strategy.md: essay.mdの骨組みや内容の方針、進め方、その他アイデアについて記載します
 |
 |_ paper.tex: 論文形式で書けそうなら書きます。
 </pre>
